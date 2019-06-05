@@ -14,6 +14,7 @@ public class TestAnything {
 		ChromeDriver d=new ChromeDriver();
 		
 		d.get("https://learn.letskodeit.com/p/practice");
+		d.get("https://learn.letskodeit.com/p/practice");
 	    
 	
 	}
