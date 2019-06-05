@@ -13,6 +13,7 @@ public class TestAnything {
 	    System.out.println(p);
 	    
 	    System.out.println("Test");
+	    System.out.println("Test");
 	}
 
 }
